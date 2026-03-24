@@ -114,8 +114,11 @@ In above image we have RTL code and we want hardware circuit with that code, the
 
 * The RTL code describes a multiplexer (using `assign`) and a flip-flop (using `always` block with clock and reset). During synthesis, this RTL is converted into a gate-level circuit using standard cells from the .lib and generated as a netlist.
 
+***
 
+## 1.2 - Labs using yosys
 
+https://github.com/user-attachments/assets/d03b0f78-41c5-496a-a9c7-98fdde329e25
 
 
 
