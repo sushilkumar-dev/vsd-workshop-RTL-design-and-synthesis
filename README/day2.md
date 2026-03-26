@@ -6,3 +6,4 @@ The file `sky130_fd_sc_hd__tt_025C_1v80.lib` is a standard cell library used dur
 
 It helps the synthesis tool map RTL code into real gates (like AND, OR, MUX, flip-flops) under typical conditions (tt), 25°C temperature, and 1.8V supply.
 
+## 2.2 Hier synthesis and flat synthesis
